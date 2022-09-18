@@ -1,6 +1,5 @@
 This is a paper interpretation project where I take a technical paper and implement it in Pytorch or Tensorflow
 # Siamese networks for facial comparison
-Facial comparison using Siamese Networks
 
 ## Paper
 This is the Pytorch interpretation of the paper [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) submitted to ICML deep learning workshop, vol. 2. 2015. 2015 
